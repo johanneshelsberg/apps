@@ -1,10 +1,10 @@
 {
   "format": 1,
   "app": "wartungsplaner",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "datei": "wartungsplaner.html",
-  "sha256": "32bc186f0b2fb1445d0e4a2b50582b6db382d2c659fda042d54940f920d8a227",
-  "groesse": 552023,
-  "notiz": "Version 0.2.0. Was neu ist, steht in den Änderungen.",
-  "signatur": "I1jkv7twUVcGJifcpFbeslHZ1+F+Q6Gbzd8avCvSAA/IzGbFD7koZ9zHXZ9MsfjMIy7JbNfBJGLT/5P4cZ7yDg=="
+  "sha256": "1858936eea893d1c4f0aba712f2d085e6d04dcb720c2723de5486a798cf2926d",
+  "groesse": 552379,
+  "notiz": "Version 0.2.1. Was neu ist, steht in den Änderungen.",
+  "signatur": "BR5B6lo7dIY6RwWZaGiNIvBNZKJryGJMTjLmqkZPO8PwtzjHRgpgS2akulRxO/YCfber7Azj0Metz7fPrgHYCg=="
 }
